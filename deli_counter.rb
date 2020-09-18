@@ -24,16 +24,7 @@ def now_serving(names)
   end
 end
 
-# def now_serving(name)
-#     new_name = []
-#     name.count == 0
-#     puts "There is nobody waiting to be served!"
-#     name.map do |person|
-#     puts "Currently serving #{person}."
-#     name.shift << new_name
-#  end
-# end
-#
+
 # def now_serving(line)
 #     new_line = []
 #   if line.count == 0
@@ -42,5 +33,4 @@ end
 #     puts "Currently serving #{person}."
 #     line.shift << new_line
 #   end
-#  end
 # end
